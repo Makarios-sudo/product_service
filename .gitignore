@@ -1,0 +1,7 @@
+env
+log.txt
+__pycache__
+database/__pycache__
+urls/__pycache__
+utility/__pycache__
+views/__pycache__
